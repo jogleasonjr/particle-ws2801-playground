@@ -1,0 +1,3 @@
+lib/WS2801/firmware/WS2801.h
+lib/WS2801/firmware/WS2801.cpp
+particle-ws2801-playground.ino
