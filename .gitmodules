@@ -1,3 +1,6 @@
 [submodule "firmware/lib/WS2801"]
 	path = firmware/lib/WS2801
 	url = https://github.com/jogleasonjr/WS2801.git
+[submodule "firmware/lib/Serial_LCD_Library"]
+	path = firmware/lib/Serial_LCD_Library
+	url = https://github.com/jogleasonjr/Serial_LCD_Library.git

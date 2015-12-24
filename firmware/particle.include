@@ -1,3 +1,5 @@
 lib/WS2801/firmware/WS2801.h
 lib/WS2801/firmware/WS2801.cpp
+lib/Serial_LCD_Library/firmware/Serial_LCD_SparkFun.h
+lib/Serial_LCD_Library/firmware/Serial_LCD_SparkFun.cpp
 particle-ws2801-playground.ino
